@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Iris",
+    "description": "A small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.",
+    "url": "https://archive.ics.uci.edu/dataset/53/iris"
+  },
+  {
+    "name": "Heart Disease",
+    "description": "4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach",
+    "url": "https://archive.ics.uci.edu/dataset/45/heart+disease"
+  },
+  {
+    "name": "Wine Quality",
+    "description": "Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).",
+    "url": "https://archive.ics.uci.edu/dataset/186/wine+quality"
+  },
+  {
+    "name": "Bank Marketing",
+    "description": "The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).",
+    "url": "https://archive.ics.uci.edu/dataset/222/bank+marketing"
+  },
+  {
+    "name": "Student Performance",
+    "description": "Predict student performance in secondary education (high school).",
+    "url": "https://archive.ics.uci.edu/dataset/320/student+performance"
+  },
+  {
+    "name": "Breast Cancer Wisconsin (Diagnostic)",
+    "description": "Diagnostic Wisconsin Breast Cancer Database.",
+    "url": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic"
+  },
+  {
+    "name": "Adult",
+    "description": "Predict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset.",
+    "url": "https://archive.ics.uci.edu/dataset/2/adult"
+  },
+  {
+    "name": "Online Retail",
+    "description": "This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.",
+    "url": "https://archive.ics.uci.edu/dataset/352/online+retail"
+  },
+  {
+    "name": "Wine",
+    "description": "Using chemical analysis to determine the origin of wines",
+    "url": "https://archive.ics.uci.edu/dataset/109/wine"
+  },
+  {
+    "name": "Car Evaluation",
+    "description": "Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.",
+    "url": "https://archive.ics.uci.edu/dataset/19/car+evaluation"
+  }
+]

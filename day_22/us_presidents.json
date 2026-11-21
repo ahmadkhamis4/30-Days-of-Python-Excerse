@@ -1,0 +1,284 @@
+[
+  {
+    "number": "1",
+    "name": "George Washington (1732–1799) [ 19 ]",
+    "term": "",
+    "party": "Unaffiliated"
+  },
+  {
+    "number": "2",
+    "name": "John Adams (1735–1826) [ 21 ]",
+    "term": "",
+    "party": "Federalist"
+  },
+  {
+    "number": "3",
+    "name": "Thomas Jefferson (1743–1826) [ 23 ]",
+    "term": "",
+    "party": "Democratic- Republican"
+  },
+  {
+    "number": "4",
+    "name": "James Madison (1751–1836) [ 24 ]",
+    "term": "",
+    "party": "Democratic- Republican"
+  },
+  {
+    "number": "5",
+    "name": "James Monroe (1758–1831) [ 26 ]",
+    "term": "",
+    "party": "Democratic- Republican"
+  },
+  {
+    "number": "6",
+    "name": "John Quincy Adams (1767–1848) [ 27 ]",
+    "term": "",
+    "party": ""
+  },
+  {
+    "number": "7",
+    "name": "Andrew Jackson (1767–1845) [ 30 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "8",
+    "name": "Martin Van Buren (1782–1862) [ 31 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "9",
+    "name": "William Henry Harrison (1773–1841) [ 32 ]",
+    "term": "",
+    "party": "Whig"
+  },
+  {
+    "number": "10",
+    "name": "John Tyler (1790–1862) [ 33 ]",
+    "term": "",
+    "party": ""
+  },
+  {
+    "number": "11",
+    "name": "James K. Polk (1795–1849) [ 36 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "12",
+    "name": "Zachary Taylor (1784–1850) [ 37 ]",
+    "term": "",
+    "party": "Whig"
+  },
+  {
+    "number": "13",
+    "name": "Millard Fillmore (1800–1874) [ 38 ]",
+    "term": "",
+    "party": "Whig"
+  },
+  {
+    "number": "14",
+    "name": "Franklin Pierce (1804–1869) [ 40 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "15",
+    "name": "James Buchanan (1791–1868) [ 41 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "16",
+    "name": "Abraham Lincoln (1809–1865) [ 42 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "17",
+    "name": "Andrew Johnson (1808–1875) [ 44 ]",
+    "term": "",
+    "party": ""
+  },
+  {
+    "number": "18",
+    "name": "Ulysses S. Grant (1822–1885) [ 45 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "19",
+    "name": "Rutherford B. Hayes (1822–1893) [ 46 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "20",
+    "name": "James A. Garfield (1831–1881) [ 47 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "21",
+    "name": "Chester A. Arthur (1829–1886) [ 48 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "22",
+    "name": "Grover Cleveland (1837–1908) 1st term [ 50 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "23",
+    "name": "Benjamin Harrison (1833–1901) [ 51 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "24",
+    "name": "Grover Cleveland (1837–1908) 2nd term [ 50 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "25",
+    "name": "William McKinley (1843–1901) [ 52 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "26",
+    "name": "Theodore Roosevelt (1858–1919) [ 53 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "27",
+    "name": "William Howard Taft (1857–1930) [ 55 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "28",
+    "name": "Woodrow Wilson (1856–1924) [ 56 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "29",
+    "name": "Warren G. Harding (1865–1923) [ 57 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "30",
+    "name": "Calvin Coolidge (1872–1933) [ 58 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "31",
+    "name": "Herbert Hoover (1874–1964) [ 60 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "32",
+    "name": "Franklin D. Roosevelt (1882–1945) [ 61 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "33",
+    "name": "Harry S. Truman (1884–1972) [ 62 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "34",
+    "name": "Dwight D. Eisenhower (1890–1969) [ 64 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "35",
+    "name": "John F. Kennedy (1917–1963) [ 65 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "36",
+    "name": "Lyndon B. Johnson (1908–1973) [ 66 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "37",
+    "name": "Richard Nixon (1913–1994) [ 68 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "38",
+    "name": "Gerald Ford (1913–2006) [ 69 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "39",
+    "name": "Jimmy Carter (1924–2024) [ 70 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "40",
+    "name": "Ronald Reagan (1911–2004) [ 71 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "41",
+    "name": "George H. W. Bush (1924–2018) [ 72 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "42",
+    "name": "Bill Clinton ( b. 1946 ) [ 73 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "43",
+    "name": "George W. Bush ( b. 1946 ) [ 74 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "44",
+    "name": "Barack Obama ( b. 1961 ) [ 75 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "45",
+    "name": "Donald Trump ( b. 1946 ) 1st term [ 76 ]",
+    "term": "",
+    "party": "Republican"
+  },
+  {
+    "number": "46",
+    "name": "Joe Biden ( b. 1942 ) [ 77 ]",
+    "term": "",
+    "party": "Democratic"
+  },
+  {
+    "number": "47",
+    "name": "Donald Trump ( b. 1946 ) 2nd term [ 76 ]",
+    "term": "",
+    "party": "Republican"
+  }
+]
