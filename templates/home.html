@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<section class="card">
+  <h1>Welcome to {{ name }}</h1>
+  <p>
+    Explore Python for the web and try the text analyzer. This application uses
+    the following technologies:
+  </p>
+  <ul class="tech-list">
+    {% for tech in techs %}
+    <li>{{ tech }}</li>
+    {% endfor %}
+  </ul>
+  <a class="button" href="{{ url_for('post') }}">Analyze text</a>
+</section>
+{% endblock %}

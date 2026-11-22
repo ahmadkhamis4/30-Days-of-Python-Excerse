@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<section class="card">
+  <h1>Text Analyzer</h1>
+  <p>Paste text below to see its word and character counts.</p>
+  {% if error %}
+  <p class="error" role="alert">{{ error }}</p>
+  {% endif %}
+  <form action="{{ url_for('post') }}" method="POST">
+    <label for="content">Text to analyze</label>
+    <textarea id="content" name="content" rows="12" required autofocus></textarea>
+    <button class="button" type="submit">Process text</button>
+  </form>
+</section>
+{% endblock %}

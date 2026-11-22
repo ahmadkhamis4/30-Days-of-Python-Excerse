@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<section class="card">
+  <h1>Analysis Results</h1>
+  <dl class="stats">
+    <div><dt>Words</dt><dd>{{ analysis.word_count }}</dd></div>
+    <div><dt>Characters (including spaces)</dt><dd>{{ analysis.character_count }}</dd></div>
+    <div><dt>Unique words</dt><dd>{{ analysis.unique_word_count }}</dd></div>
+  </dl>
+  <h2>Most frequent words</h2>
+  {% if analysis.frequent_words %}
+  <ol>
+    {% for item in analysis.frequent_words %}
+    <li>{{ item.word }} — {{ item.count }}</li>
+    {% endfor %}
+  </ol>
+  {% else %}
+  <p>No words found.</p>
+  {% endif %}
+  <a class="button" href="{{ url_for('post') }}">Analyze more text</a>
+</section>
+{% endblock %}
